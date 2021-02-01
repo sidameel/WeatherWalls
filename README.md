@@ -23,7 +23,7 @@ WeatherWalls has several (optional) features to give you and your device a nice 
 
 ## Requirements
 
-**Allow 'Untrusted Shortcuts'** on your device by going to **Settings → Shortcuts**.
+**Allow 'Untrusted Shortcuts'** on your device by going to `**Settings → Shortcuts**`.
 
 The shortcut is only working on **iPhone** models running **iOS 14.3** or **higher** as the '*Set Wallpaper*' action was (re)introduced in this version.
 
@@ -71,9 +71,9 @@ It is possible to create your own theme. More info on this will be available at 
 ## Tips & Tricks
 
 **Disabling Automations notifications**
-Using automations throughout the day will flood your notifications as Shortcuts notifies you every time an automation runs in the background. There is no way to turn off notifications for Shortcuts in Settings → Notifications, though there is a glitch that makes it possible to turn off those notifications.
+Using automations throughout the day will flood your notifications as Shortcuts notifies you every time an automation runs in the background. There is no way to turn off notifications for Shortcuts in `Settings → Notifications`, though there is a glitch that makes it possible to turn off those notifications.
 
-Go to Settings → Screen Time → All Activity. Scroll down to the Notifications section. You'll see different apps you used in the past day with a clickable arrow. Shortcuts will be there too, but probably won't have an arrow (yet). Scroll through the chart horizontally a few times back and forth, until a clickable arrow comes available on Shortcuts. Click it and you should be prompted with a Notifications settings page for Shortcuts. If you disable notifications here, Shortcuts automations will still run in the background, but you will no longer be notified. Note that this glitch resets when you restart your device.
+Go to `Settings → Screen Time → All Activity`. Scroll down to the Notifications section. You'll see different apps you used in the past day with a clickable arrow. Shortcuts will be there too, but probably won't have an arrow (yet). Scroll through the chart horizontally a few times back and forth, until a clickable arrow comes available on Shortcuts. Click it and you should be prompted with a Notifications settings page for Shortcuts. If you disable notifications here, Shortcuts automations will still run in the background, but you will no longer be notified. Note that this glitch resets when you restart your device.
 
 ## FAQ
 
