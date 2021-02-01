@@ -33,7 +33,9 @@ Naming the images are important and these should be included in your theme:
 * snow_night.jpg
 
 **SUNRISE/SUNSET**
-You can add this effect by using a PNG-file that is used in the overlay action in the shortcut. Creating a realistic sunrise/sunset effect with a single is challenging. If you don't want such effect, create a 100% transparent PNG-file with the same dimensions as the other images. Name this file **sunset.png**
+You can add this effect by using a PNG-file that is used in the overlay action in the shortcut. Creating a realistic sunrise/sunset effect with a single image is challenging. If you don't want the effect, create a 100% transparent PNG-file with the same dimensions as the other images. Name this file **sunset.png** and include it.
+
+Eventually you should end with 18 JPG files and 1 PNG file in `/Shortcuts/WeatherWalls/CUSTOMTHEME`.
 
 ## Submit your theme
 If you want to submit your theme to be available in the installer so everyone can download, follow the steps below.
