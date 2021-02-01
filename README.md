@@ -12,7 +12,7 @@ WeatherWalls is an iOS Shortcut created by /u/apoch8000. The shortcut takes the 
 
 ## Features
 WeatherWalls has several (optional) features to give you and your device a nice experience. Find a list of the features below.
-- ** Up to 9 different weather conditions** can be shown: Clear, Minor Clouds, Cloudy, Heavy Clouds, Drizzle*, Rain, Fog, Snow and Thunderstorm*. (* Only available in select themes)
+- **Up to 9 different weather conditions** can be shown: Clear, Minor Clouds, Cloudy, Heavy Clouds, Drizzle*, Rain, Fog, Snow and Thunderstorm*. (* Only available in select themes)
 - **4 Themes to choose from** ('Sea', 'Beach', 'Mountain' & 'Surface'). 
 - Each theme has its own **Day / Night** version.
 - The 'Sea' and 'Beach' themes have a **Sunrise / Sunset** effect.
