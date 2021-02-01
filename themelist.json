@@ -1,6 +1,6 @@
 [
-{"SEA PART1": "https://github.com/apoch8000/WeatherWalls/raw/main/SEA_day.zip"},  
-{"SEA PART2": "https://github.com/apoch8000/WeatherWalls/raw/main/SEA_night.zip"},  
+{"SEA_day": "https://github.com/apoch8000/WeatherWalls/raw/main/SEA_day.zip"},  
+{"SEA_night": "https://github.com/apoch8000/WeatherWalls/raw/main/SEA_night.zip"},  
 {"BEACH": "https://github.com/apoch8000/WeatherWalls/raw/main/BEACH.zip"},
 {"MOUNTAIN": "https://github.com/apoch8000/WeatherWalls/raw/main/MOUNTAIN.zip"},
 {"SURFACE": "https://github.com/apoch8000/WeatherWalls/raw/main/SURFACE.zip"},
