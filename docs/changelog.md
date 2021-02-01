@@ -1,6 +1,11 @@
 # Changelog
 
 *It is not recommended to use previous versions. The list below is only for archive purposes.*
+#### [Version 2.4.1](https://www.icloud.com/shortcuts/d97f829bf3e7441ea95ecc85e3612723) - 01 Feb. 2021
+- Fixed a bug causing an error on English devices.
+
+#### [Version 2.4](https://www.icloud.com/shortcuts/3e4b5b8d871c43fc80ea671ee5fe4836) - 01 Feb. 2021
+- Performance improvements (limiter / only translate when nescessary)
 
 #### [Version 2.3](https://www.icloud.com/shortcuts/b88587a4189941b0b10311d2c4058c73) - 30 Jan. 2021
 - SEA theme added / Optimized image quality
