@@ -90,9 +90,9 @@ Depending on your device, the shortcut needs to resize the original images to fi
 
 **Not in the near future.** An iPad version would need their own set of images, which currently does not exist as the shortcut initially was designed for an iPhone. There are no plans to make the shortcut compatible for iPad.
 
-- **Will you make more variations?**
+- **Will you make more themes?**
 
-**Probably.** Depending on my personal life and spare time, there probably will come more variations over time.
+**Probably.** Depending on my personal life and spare time, there probably will come more themes over time.
 
 - **Is this shortcut 'battery hungry'?**
 
@@ -102,9 +102,9 @@ Depending on your device, the shortcut needs to resize the original images to fi
 
 **No**. I am not sharing my source files with anyone. I created them manually in Photoshop and took the original images from Unsplash (except the original Microsoft Surface wallpaper). Anyone can create its own set of wallpapers, place them in a manually created folder and name the images accordingly.
 
-- **Do you accept paid assignments to create a custom variations?**
+- **Do you accept paid assignments to create a custom theme?**
 
-**Everything is negotiable** but it is not my intention to start creating private variations for the highest bidder. If people buy me a coffee from time to time, I probably stay motivated to add new variations from time to time, that everyone can enjoy.
+**Everything is negotiable** but it is not my intention to start creating private themes for the highest bidder. If people buy me a coffee from time to time, I probably stay motivated to add new themes from time to time, that everyone can enjoy.
 
 - **Do you want a coffee?**
 
