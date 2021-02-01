@@ -7,7 +7,7 @@ WeatherWalls is an iOS Shortcut created by /u/apoch8000. The shortcut takes the 
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Automate](#automate)
-* [Tips & Tricks](#tips-tricks)
+* [Tips & Tricks](#tips--tricks)
 * [FAQ](#faq)
 
 ## Features
