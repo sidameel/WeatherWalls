@@ -9,6 +9,7 @@ Create a subfolder in your `/Shortcuts/WeatherWalls`folder. The folder name must
 At this moment (Version 2.4) every theme comes with 19 image files (18 for weather conditions and 1 for sunrise/sunset effect) and in case you want to submit your theme to the WeatherWalls project, your theme should too. It is required that your images are **at least 1284x2278 pixels at 300ppi**.  
 
 Naming the images are important and these should be included in your theme:
+
 **Daytime**
 * clear.jpg
 * cloud_small.jpg
@@ -19,6 +20,7 @@ Naming the images are important and these should be included in your theme:
 * fog.jpg
 * thunderstorm.jpg
 * snow.jpg
+
 **Nighttime**
 * clear_night.jpg
 * cloud_small_night.jpg
@@ -29,6 +31,7 @@ Naming the images are important and these should be included in your theme:
 * fog_night.jpg
 * thunderstorm_night.jpg
 * snow_night.jpg
+
 **SUNRISE/SUNSET**
 You can add this effect by using a PNG-file that is used in the overlay action in the shortcut. Creating a realistic sunrise/sunset effect with a single is challenging. If you don't want such effect, create a 100% transparent PNG-file with the same dimensions as the other images. Name this file **sunset.png**
 
