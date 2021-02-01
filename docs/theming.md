@@ -39,6 +39,6 @@ Eventually you should end with 18 JPG files and 1 PNG file in `/Shortcuts/Weathe
 
 ## Submit your theme
 If you want to submit your theme to be available in the installer so everyone can download, follow the steps below.
-1. Compress the 19 image files in a **.zip file**. Make sure you don't compress the folder with the images within, but only the images. Optionally you can include a readme file.
+1. Compress the 19 image files in a **.zip file**. Make sure you don't compress the folder with the images within, but only the images directly in the archive. **Make sure the archive is not bigger than 25MB due restrictions on Github**. Optionally you can include a readme file.
 2. Upload the archive to a service and send me a link to me at [/u/apoch8000](https://www.reddit.com/user/apoch8000).
 3. I will review your submission (correct filenames ect.) and add your theme to the `themelist.json` so everyone can download it.
