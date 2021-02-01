@@ -7,6 +7,7 @@ WeatherWalls is an iOS Shortcut created by /u/apoch8000. The shortcut takes the 
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Automate](#automate)
+* [Creating your own theme](#creating-your-own-theme)
 * [Tips & Tricks](#tips--tricks)
 * [FAQ](#faq)
 
@@ -64,10 +65,12 @@ Recommended is to run WeatherWalls approximately every 1-2 hours and maybe more 
 **IMPORTANT NOTE** 
 Running this shortcut too frequently through some automations (e.g. Every time I open app, run shortcut) can have a negative impact on the battery life of your device. It is suggested to use the feature to limit the shortcut to only run once every 10-15 minutes at least. 
 
+## Creating your own theme 
+It is possible to create your own theme. More info on this will be available at `/docs/theming.md`.
+
 ## Tips & Tricks
 
 **Disabling Automations notifications**
-
 Using automations throughout the day will flood your notifications as Shortcuts notifies you every time an automation runs in the background. There is no way to turn off notifications for Shortcuts in Settings → Notifications, though there is a glitch that makes it possible to turn off those notifications.
 
 Go to Settings → Screen Time → All Activity. Scroll down to the Notifications section. You'll see different apps you used in the past day with a clickable arrow. Shortcuts will be there too, but probably won't have an arrow (yet). Scroll through the chart horizontally a few times back and forth, until a clickable arrow comes available on Shortcuts. Click it and you should be prompted with a Notifications settings page for Shortcuts. If you disable notifications here, Shortcuts automations will still run in the background, but you will no longer be notified. Note that this glitch resets when you restart your device.
