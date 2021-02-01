@@ -48,7 +48,7 @@ You have now manually installed a theme.
 
 ## Get the shortcut
 Click on the link below to install the most recent version of WeatherWalls
-* **[Version 2.4.1](https://www.icloud.com/shortcuts/d97f829bf3e7441ea95ecc85e3612723)** `01 Feb. 2021
+* **[Version 2.4.1](https://www.icloud.com/shortcuts/d97f829bf3e7441ea95ecc85e3612723)** `01 Feb. 2021`
 
 Changelog coming soon.
 
