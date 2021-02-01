@@ -23,7 +23,7 @@ WeatherWalls has several (optional) features to give you and your device a nice 
 
 ## Requirements
 
-**Allow 'Untrusted Shortcuts'** on your device by going to `**Settings → Shortcuts**`.
+**Allow 'Untrusted Shortcuts'** on your device by going to `Settings → Shortcuts`.
 
 The shortcut is only working on **iPhone** models running **iOS 14.3** or **higher** as the '*Set Wallpaper*' action was (re)introduced in this version.
 
@@ -33,7 +33,7 @@ Before WeatherWalls can work, we need to make sure all images are in the correct
 
 ### Get the files ###
 On your iPhone, click on the link below for the installer shortcut. Run it to download and extract all files. Once completed, you can delete the installer shortcut again.
-* **[Installer](https://www.icloud.com/shortcuts/e2a95aa7465f4a118a62befbbde1c81e)** (For version 2.4 or above) - *01 Feb. 2021*
+* **[Installer](https://www.icloud.com/shortcuts/6ba455a015464ad0be9ad12900d23381)** (For version 2.4 or above) - *01 Feb. 2021*
 
 The easiest way is to install all required files with this installer. It downloads the themes you want and extract them to your iCloud Drive.
 
@@ -50,7 +50,7 @@ You have now manually installed a theme.
 
 ## Get the shortcut
 Click on the link below to install the most recent version of WeatherWalls
-* **[Version 2.4](https://www.icloud.com/shortcuts/3e4b5b8d871c43fc80ea671ee5fe4836)** - *01 Feb. 2021*
+* **[Version 2.4](https://www.icloud.com/shortcuts/e022d0511da7453e93d6d5240336304d)** - *01 Feb. 2021*
 
 Changelog coming soon.
 
