@@ -1,10 +1,23 @@
-# Creating your own theme
+# Creating your own theme or module
 
-## Folder
+## Module
+
+### Folder (If needed)
+
+Create a subfolder in your `/Shortcuts/WeatherWalls/Modules/`folder. The folder name should describe the kind of module you are making. Then create another folder inside it with the name of the module `/Shortcuts/WeatherWalls/Modules/Category`. Remember, that your module installer shortcut/ your module shortcut should automatically create these folders. 
+
+### Shortcut
+
+Now create a shortcut, which applies your theme to the shortcut input and make shure, that the output is the picture of the wallpaper.
+
+
+## Theme
+
+### Folder
 
 Create a subfolder in your `/Shortcuts/WeatherWalls/Themes/`folder. The folder name must be **capitalized and one word**. Let's use the name `Customtheme`as name for your theme as example. So, you should have `/Shortcuts/WeatherWalls/Themes/CUSTOMTHEME`now.
 
-## Files
+### Files
 
 At this moment (Version 3.0) every theme comes with 19 image files (18 for weather conditions and 1 for sunrise/sunset effect) and in case you want to submit your theme to the WeatherWalls project, your theme should too. It is required that your images are **at least 1284x2278 pixels at 300ppi**.  
 
@@ -37,7 +50,7 @@ You can add this effect by using a PNG-file that is used in the overlay action i
 
 Eventually you should end with 18 JPG files and 1 PNG file in `/Shortcuts/WeatherWalls/Themes/CUSTOMTHEME`.
 
-## Submit your theme
+## Submit your theme or Module
 If you want to submit your theme to be available in the installer so everyone can download, follow the steps below.
 1. Compress the 19 image files in a **.zip file**. Make sure you don't compress the folder with the images within, but only the images directly in the archive. **Make sure the archive is not bigger than 25MB due restrictions on Github**. Optionally you can include a readme file.
 2. Upload the archive to a service and send me a link to me at [/u/apoch8000](https://www.reddit.com/user/apoch8000).
