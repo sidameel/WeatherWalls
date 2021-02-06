@@ -1,13 +1,13 @@
 # WeatherWalls
 
-WeatherWalls is an iOS Shortcut created by /u/apoch8000. The shortcut takes the current weather conditions on your location and sets an according wallpaper on your device.
+WeatherWalls is an iOS Shortcut created by /u/apoch8000 and /u/Firefox6_66. The shortcut takes the current weather conditions on your location and sets an according wallpaper on your device.
 
 **Table of contents**
 * [Features](#features)
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Automate](#automate)
-* [Creating your own theme](#creating-your-own-theme)
+* [Creating your own theme](../main/docs/theming.md)
 * [Tips & Tricks](#tips--tricks)
 * [FAQ](#faq)
 
@@ -16,7 +16,7 @@ WeatherWalls has several (optional) features to give you and your device a nice 
 - **Up to 9 different weather conditions** can be shown: Clear, Minor Clouds, Cloudy, Heavy Clouds, Drizzle*, Rain, Fog, Snow and Thunderstorm*. (* Only available in select themes)
 - **4 Themes to choose from** ('Sea', 'Beach', 'Mountain' & 'Surface'). 
 - Each theme has its own **Day / Night** version.
-- The 'Sea' and 'Beach' themes have a **Sunrise / Sunset** effect.
+- Some themes have a **Sunrise / Sunset** effect.
 - **Easy installation** with a seperate installer shortcut. 
 
 **If you follow this guide precisely, WeatherWalls will work like a charm on your device.**
@@ -33,24 +33,14 @@ Before WeatherWalls can work, we need to make sure all images are in the correct
 
 ### Get the files ###
 On your iPhone, click on the link below for the installer shortcut. Run it to download and extract all files. Once completed, you can delete the installer shortcut again.
-* **[Installer](https://www.icloud.com/shortcuts/6ba455a015464ad0be9ad12900d23381)** (For version 2.4 or above) `01 Feb. 2021`
-
-
-#### Manual setup ####
-Despite this is not recommended, you can choose to manually download the files and extract them to the right locations. Follow the steps below:
-1. In your **iCloud Drive**, find the `/Shortcuts` folder.
-2. In this directory **create a new folder** named 'WeatherWalls' (= `/Shortcuts/WeatherWalls`). 
-3. In this directory **create a folder for the theme** you want to download and **capitalize the name** (= `/Shortcuts/WeatherWalls/BEACH`).
-4. **Download** the theme from above with the according foldername you just created.
-5. **Extract** the contents of the theme into your theme folder (= `/Shortcuts/WeatherWalls/BEACH/clear.jpg`).
-
-You have now manually installed a theme.
+* **[Installer] (url)** (For version 3.0 or above) `06 Feb. 2021`
+* **[Installer](https://www.icloud.com/shortcuts/6ba455a015464ad0be9ad12900d23381)** (For version 2.4 to 2.4.4) `06 Feb. 2021`
 
 ## Get the shortcut
 Click on the link below to install the most recent version of WeatherWalls
+* **[Version 3.0](url)** `06 Feb. 2021`
+* **[Version 2.4.4](https://www.icloud.com/shortcuts/8bb58ac5aa104b7f999cb3069211a960)** `01 Feb. 2021`
 * **[Version 2.4.1](https://www.icloud.com/shortcuts/d97f829bf3e7441ea95ecc85e3612723)** `01 Feb. 2021`
-
-Changelog coming soon.
 
 ## Automate
 
