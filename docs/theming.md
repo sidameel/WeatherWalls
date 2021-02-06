@@ -2,7 +2,7 @@
 
 ## Folder
 
-Create a subfolder in your `/Shortcuts/WeatherWalls`folder. The folder name must be **capitalized and one word**. Let's use the name `Customtheme`as name for your theme as example. So, you should have `/Shortcuts/WeatherWalls/CUSTOMTHEME`now.
+Create a subfolder in your `/Shortcuts/WeatherWalls/Themes/`folder. The folder name must be **capitalized and one word**. Let's use the name `Customtheme`as name for your theme as example. So, you should have `/Shortcuts/WeatherWalls/Themes/CUSTOMTHEME`now.
 
 ## Files
 
@@ -35,7 +35,7 @@ Naming the images are important and these should be included in your theme:
 **SUNRISE/SUNSET**
 You can add this effect by using a PNG-file that is used in the overlay action in the shortcut. Creating a realistic sunrise/sunset effect with a single image is challenging. If you don't want the effect, create a 100% transparent PNG-file with the same dimensions as the other images. Name this file **sunset.png** and include it.
 
-Eventually you should end with 18 JPG files and 1 PNG file in `/Shortcuts/WeatherWalls/CUSTOMTHEME`.
+Eventually you should end with 18 JPG files and 1 PNG file in `/Shortcuts/WeatherWalls/Themes/CUSTOMTHEME`.
 
 ## Submit your theme
 If you want to submit your theme to be available in the installer so everyone can download, follow the steps below.
