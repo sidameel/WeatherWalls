@@ -7,7 +7,9 @@ WeatherWalls is an iOS Shortcut created by /u/apoch8000 and /u/Firefox6_66. The 
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Automate](#automate)
-* [Creating your own theme](../main/docs/theming.md)
+* [Modules](#modules)
+* [Themes](#themes)
+* [Creating your own theme/module](../main/docs/theming.md)
 * [Tips & Tricks](#tips--tricks)
 * [FAQ](#faq)
 
@@ -53,8 +55,28 @@ Recommended is to run WeatherWalls approximately every 1-2 hours and maybe more 
 **IMPORTANT NOTE** 
 Running this shortcut too frequently through some automations (e.g. Every time I open app, run shortcut) can have a negative impact on the battery life of your device. It is suggested to use the feature to limit the shortcut to only run once every 10-15 minutes at least. 
 
-## Creating your own theme 
-It is possible to create your own theme. More info available at [/docs/theming.md](../main/docs/theming.md).
+## Modules
+
+**Stock Modules**
+- [Stock Module](https://www.icloud.com/shortcuts/b53b39ce48ba44d18236275d3a1a4dadx)
+
+**Contributed Themes**
+- [Sticky Note Module](https://www.icloud.com/shortcuts/0d0e33cd06cf4fd3bb58c0a8972a7263) (by /u/Firefox6_66)
+
+## Themes
+
+**Stock Themes**
+- Sea
+- Beach
+- Mountain
+- Surface*
+
+**Contributed Themes**
+- Minecraft (by /u/Firefox6_66, reworked by /u/apoch8000)
+- Disney Castle (by /u/CheeseheadDave)
+
+## Creating your own theme/module
+It is possible to create your own theme or module. More info available at [/docs/theming.md](../main/docs/theming.md).
 
 ## Tips & Tricks
 
