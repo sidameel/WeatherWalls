@@ -6,7 +6,7 @@ Create a subfolder in your `/Shortcuts/WeatherWalls/Themes/`folder. The folder n
 
 ## Files
 
-At this moment (Version 2.4) every theme comes with 19 image files (18 for weather conditions and 1 for sunrise/sunset effect) and in case you want to submit your theme to the WeatherWalls project, your theme should too. It is required that your images are **at least 1284x2278 pixels at 300ppi**.  
+At this moment (Version 3.0) every theme comes with 19 image files (18 for weather conditions and 1 for sunrise/sunset effect) and in case you want to submit your theme to the WeatherWalls project, your theme should too. It is required that your images are **at least 1284x2278 pixels at 300ppi**.  
 
 Naming the images are important and these should be included in your theme:
 
