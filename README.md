@@ -64,7 +64,7 @@ Recommended is to run WeatherWalls approximately every 1-2 hours and maybe more 
 Running this shortcut too frequently through some automations (e.g. Every time I open app, run shortcut) can have a negative impact on the battery life of your device. It is suggested to use the feature to limit the shortcut to only run once every 10-15 minutes at least. 
 
 ## Creating your own theme 
-It is possible to create your own theme. More info on available at [/docs/theming.md](../main/docs/theming.md).
+It is possible to create your own theme. More info available at [/docs/theming.md](../main/docs/theming.md).
 
 ## Tips & Tricks
 
