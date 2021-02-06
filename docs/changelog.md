@@ -1,8 +1,10 @@
 # Changelog
 
 *It is not recommended to use previous versions. The list below is only for archive purposes.*
-### [Version 3.0](url) - 06 Feb. 2021
-- 
+### [Version 3.0](https://www.icloud.com/shortcuts/583cfce5c92e4368a981c9da226b7209) - 06 Feb. 2021
+- Introduced Modules
+- Added a stock modules (Get it [here](https://www.icloud.com/shortcuts/b53b39ce48ba44d18236275d3a1a4dadx))
+- Minor bugfixes
 
 ### [Version 2.4.4](https://www.icloud.com/shortcuts/8bb58ac5aa104b7f999cb3069211a960) - 01 Feb. 2021
 - Solved the “Could not evaluate the key path” error that occurred due passing weather conditions in the wrong format to check its value in the vocabulary. 
