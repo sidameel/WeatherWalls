@@ -1,10 +1,10 @@
 # Changelog
 
 *It is not recommended to use previous versions. The list below is only for archive purposes.*
-### [Version 3.1](https://www.icloud.com/shortcuts/8a1ec1dacf5348b7be599e919ccd4406) - 06 Feb. 2021
+### [Version 3.1 Beta](https://www.icloud.com/shortcuts/8a1ec1dacf5348b7be599e919ccd4406) - 06 Feb. 2021
 - Added an option to change, where the wallpaper gets updated
 
-### [Version 3.0](https://www.icloud.com/shortcuts/583cfce5c92e4368a981c9da226b7209) - 06 Feb. 2021
+### [Version 3.0 Beta](https://www.icloud.com/shortcuts/583cfce5c92e4368a981c9da226b7209) - 06 Feb. 2021
 - Introduced Modules
 - Added a [stock module](https://www.icloud.com/shortcuts/aec45600dc9a499faa42d573353c187b)
 - Minor bugfixes
