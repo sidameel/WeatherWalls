@@ -59,8 +59,9 @@ Running this shortcut too frequently through some automations (e.g. Every time I
 **Stock Modules**
 - [Stock Module](https://www.icloud.com/shortcuts/a36ff1f0c89647f7b5bd8a7b93185b90)
 
-**Contributed Themes**
+**Contributed Modules**
 - [Sticky Note Module](https://www.icloud.com/shortcuts/0d0e33cd06cf4fd3bb58c0a8972a7263) (by /u/Firefox6_66)
+- [Random Cat Facts Module](https://www.icloud.com/shortcuts/a51a641f2b6540e7bbee3d7bc9e1fc96) (by /u/Firefox6_66)
 
 ## Themes
 
