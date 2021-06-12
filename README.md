@@ -40,7 +40,7 @@ On your iPhone, click on the link below for the installer shortcut. Run it to do
 
 ## Get the shortcut
 Click on the link below to install the most recent version of WeatherWalls
-* **[Version 3.2 (Beta)](https://www.icloud.com/shortcuts/a4e4f5484fdf445a9f56e22d9335800c)** '10 Feb. 2021'
+* **[Version 3.2 (Beta)](https://www.icloud.com/shortcuts/a4e4f5484fdf445a9f56e22d9335800c)** `10 Feb. 2021`
 * **[Version 2.4.4 (Stable)](https://www.icloud.com/shortcuts/8bb58ac5aa104b7f999cb3069211a960)** `01 Feb. 2021`
 
 ## Automate
