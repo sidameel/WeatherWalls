@@ -35,7 +35,7 @@ Before WeatherWalls can work, we need to make sure all images are in the correct
 
 ### Get the files ###
 On your iPhone, click on the link below for the installer shortcut. Run it to download and extract all files. Once completed, you can delete the installer shortcut again.
-* **[Installer] (https://www.icloud.com/shortcuts/078b04d5fe8b41cd8056d511cd803097)** (For version 3.0 or above) `10 Feb. 2021`
+* **[Installer](https://www.icloud.com/shortcuts/078b04d5fe8b41cd8056d511cd803097)** (For version 3.0 or above) `10 Feb. 2021`
 * **[Installer](https://www.icloud.com/shortcuts/6ba455a015464ad0be9ad12900d23381)** (For version 2.4 to 2.4.4) `06 Feb. 2021`
 
 ## Get the shortcut
