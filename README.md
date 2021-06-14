@@ -54,7 +54,7 @@ Running this shortcut too frequently through some automations (e.g. Every time I
 
 ## Modules
 
-**Stock Modules**
+**Stock Modules (still in work)**
 - [Stock Module](https://www.icloud.com/shortcuts/a36ff1f0c89647f7b5bd8a7b93185b90)
 
 **Contributed Modules**
