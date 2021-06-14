@@ -2,10 +2,15 @@
 
 *It is not recommended to use previous versions. The list below is only for archive purposes.*
 
+### [Version 3.0](https://www.icloud.com/shortcuts/aa5f601e2bbc41eeaf2699bad2a509cd) - 14 June 2021
+Official Release of v3.0 introducing:
+- Modules (Up to three active at a time - Stock widget still indev)
+- Set where wallpaper changes
+- ton of bugfixes and optimizations 
+
 ### [Version 3.2 Beta](https://www.icloud.com/shortcuts/aa5f601e2bbc41eeaf2699bad2a509cd) - 10 Feb. 2021
 - Added up to three modules support
 - Bugfixes on the [Stock Module](https://www.icloud.com/shortcuts/b3adf088efa5426db7f49616583562fb)
-- Get the Installer [here](https://www.icloud.com/shortcuts/078b04d5fe8b41cd8056d511cd803097)
 
 ### [Version 3.1 Beta](https://www.icloud.com/shortcuts/8a1ec1dacf5348b7be599e919ccd4406) - 06 Feb. 2021
 - Added an option to change, where the wallpaper gets updated
