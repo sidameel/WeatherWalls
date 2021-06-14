@@ -2,6 +2,10 @@
 
 *It is not recommended to use previous versions. The list below is only for archive purposes.*
 
+### [Version 3.1](https://www.icloud.com/shortcuts/12767a351e134a8eab3dca5a8198b397) - 14 June 2021
+- added more transparent errors
+- added embedded updater
+
 ### [Version 3.0](https://www.icloud.com/shortcuts/aa5f601e2bbc41eeaf2699bad2a509cd) - 14 June 2021
 Official Release of v3.0 introducing:
 - Modules (Up to three active at a time - Stock widget still indev)
