@@ -33,15 +33,13 @@ The shortcut is only working on **iPhone** models running **iOS 14.3** or **high
 
 Before WeatherWalls can work, we need to make sure all images are in the correct folders. You can either choose to run the **installer shortcut** or **manually** download and extract all files to the correct locations.
 
-### Get the files ###
+### Get everything set up ###
 On your iPhone, click on the link below for the installer shortcut. Run it to download and extract all files. Once completed, you can delete the installer shortcut again.
-* **[Installer](https://www.icloud.com/shortcuts/078b04d5fe8b41cd8056d511cd803097)** (For version 3.0 or above) `10 Feb. 2021`
-* **[Installer](https://www.icloud.com/shortcuts/6ba455a015464ad0be9ad12900d23381)** (For version 2.4 to 2.4.4) `06 Feb. 2021`
+* **[Installer](https://www.icloud.com/shortcuts/078b04d5fe8b41cd8056d511cd803097)** `10 Feb. 2021`
 
 ## Get the shortcut
 Click on the link below to install the most recent version of WeatherWalls
-* **[Version 3.2 (Beta)](https://www.icloud.com/shortcuts/a4e4f5484fdf445a9f56e22d9335800c)** `10 Feb. 2021`
-* **[Version 2.4.4 (Stable)](https://www.icloud.com/shortcuts/8bb58ac5aa104b7f999cb3069211a960)** `01 Feb. 2021`
+* **[Version 3.0](https://www.icloud.com/shortcuts/a4e4f5484fdf445a9f56e22d9335800c)** `10 Feb. 2021`
 
 ## Automate
 
