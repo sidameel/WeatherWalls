@@ -1,7 +1,4 @@
-Version 3.0 - 14 June 2021
+Version 3.1 - 14 June 2021
 
-Official Release of v3.0 introducing:
-
-- Modules (Up to three active at a time - Stock widget still indev)
-- Set where wallpaper changes
-- tons of bugfixes and optimizations
+- added more transparent errors
+- added embedded updater
