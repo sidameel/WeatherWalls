@@ -6,7 +6,7 @@
 Official Release of v3.0 introducing:
 - Modules (Up to three active at a time - Stock widget still indev)
 - Set where wallpaper changes
-- ton of bugfixes and optimizations 
+- tons of bugfixes and optimizations 
 
 ### [Version 3.2 Beta](https://www.icloud.com/shortcuts/aa5f601e2bbc41eeaf2699bad2a509cd) - 10 Feb. 2021
 - Added up to three modules support
