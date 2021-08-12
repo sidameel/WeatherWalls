@@ -15,11 +15,11 @@ Official Release of v3.0 introducing:
 - Set where wallpaper changes
 - tons of bugfixes and optimizations 
 
-### [Version 3.2 Beta](https://www.icloud.com/shortcuts/aa5f601e2bbc41eeaf2699bad2a509cd) - 10 Feb. 2021
+### [Version 3.0 Beta 3](https://www.icloud.com/shortcuts/ba8f80fdbeac466898d6a6dab73aa4e5) - 10 Feb. 2021
 - Added up to three modules support
 - Bugfixes on the [Stock Module](https://www.icloud.com/shortcuts/b3adf088efa5426db7f49616583562fb)
 
-### [Version 3.1 Beta](https://www.icloud.com/shortcuts/8a1ec1dacf5348b7be599e919ccd4406) - 06 Feb. 2021
+### [Version 3.0 Beta 2](https://www.icloud.com/shortcuts/183abceda0ca4507af5a2b9352c47000) - 06 Feb. 2021
 - Added an option to change, where the wallpaper gets updated
 
 ### [Version 3.0 Beta](https://www.icloud.com/shortcuts/583cfce5c92e4368a981c9da226b7209) - 06 Feb. 2021
