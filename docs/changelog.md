@@ -2,6 +2,9 @@
 
 *It is not recommended to use previous versions. The list below is only for archive purposes.*
 
+### [Version 3.2.1](https://www.icloud.com/shortcuts/1f2effbef5aa489580139c1f81397574) - 21 August 2021
+- bugfixes
+
 ### [Version 3.2](https://www.icloud.com/shortcuts/3438fc4587e6461e84f740527cef41a7) - 19 June 2021
 - added option to only use modules (disable wallpapers from weather conditions)
 
