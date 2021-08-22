@@ -2,6 +2,9 @@
 
 *It is not recommended to use previous versions. The list below is only for archive purposes.*
 
+### [Version 3.2.2](https://www.icloud.com/shortcuts/b8f8ecb70c3a416aad8398af7c929b2d) - 21 August 2021
+- bugfixes
+
 ### [Version 3.2.1](https://www.icloud.com/shortcuts/1f2effbef5aa489580139c1f81397574) - 21 August 2021
 - bugfixes
 
