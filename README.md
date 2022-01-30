@@ -1,5 +1,7 @@
 # WeatherWalls
 
+**WeatherWalls 3.x or lower might not work on iOS 15. WeatherWalls 4.0 Beta is currently in development. If you want to test, check the subreddit for the newest build**
+
 WeatherWalls is an iOS Shortcut created by /u/apoch8000 and /u/Firefox6_66. The shortcut takes the current weather conditions on your location and sets an according wallpaper on your device.
 
 **Table of contents**
