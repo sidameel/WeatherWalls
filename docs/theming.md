@@ -19,7 +19,7 @@ Create a subfolder in your `/Shortcuts/WeatherWalls/Themes/`folder. The folder n
 
 ### Files
 
-At this moment (Version 3.0) every theme comes with 19 image files (18 for weather conditions and 1 for sunrise/sunset effect) and in case you want to submit your theme to the WeatherWalls project, your theme should too. It is required that your images are **at least 1284x2278 pixels at 300ppi**.  
+At this moment (Version 3.0/Version 4.0 Beta) every theme comes with 19 image files (18 for weather conditions and 1 for sunrise/sunset effect) and in case you want to submit your theme to the WeatherWalls project, your theme should too. It is required that your images are **at least 1284x2278 pixels at 300ppi**.  
 
 Naming the images are important and these should be included in your theme:
 
@@ -53,5 +53,5 @@ Eventually you should end with 18 JPG files and 1 PNG file in `/Shortcuts/Weathe
 ## Submit your theme or Module
 If you want to submit your theme to be available in the installer so everyone can download, follow the steps below.
 1. Compress the 19 image files in a **.zip file**. Make sure you don't compress the folder with the images within, but only the images directly in the archive. **Make sure the archive is not bigger than 25MB due restrictions on Github**. Optionally you can include a readme file.
-2. Upload the archive to a service and send me a link to me at [/u/apoch8000](https://www.reddit.com/user/apoch8000).
+2. Upload the archive to a service and send me a link to me at [/u/Firefox6_66](https://www.reddit.com/user/firefox6_66).
 3. I will review your submission (correct filenames ect.) and add your theme to the `themelist.json` so everyone can download it.
