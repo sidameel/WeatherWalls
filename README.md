@@ -1,5 +1,8 @@
 # Project Discontinued
 
+We are sorry to announce that the project is discontinued.
+https://www.reddit.com/r/WeatherWalls/comments/wn1gyc/the_end_of_weatherwalls/
+
 # WeatherWalls
 
 **WeatherWalls 3.x or lower might not work on iOS 15. WeatherWalls 4.0 Beta is currently in development. If you want to test, check the subreddit for the newest build. The current beta is only the core shortcut so no modules support. Features will eventually come back.**
