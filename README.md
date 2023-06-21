@@ -1,3 +1,5 @@
+#Project Discontinued
+
 # WeatherWalls
 
 **WeatherWalls 3.x or lower might not work on iOS 15. WeatherWalls 4.0 Beta is currently in development. If you want to test, check the subreddit for the newest build. The current beta is only the core shortcut so no modules support. Features will eventually come back.**
